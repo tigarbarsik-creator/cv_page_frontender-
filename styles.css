@@ -1,25 +1,27 @@
 
-body {;background-color: rgb(143, 4, 4); font-family: 'Times New Roman', Times, serif; }
+body { background-color:  rgb(143, 4, 4);
+   font-family:blue 'Times New Roman', Times, serif;
+   }
 .header {font-size: 15px; text-align: center;}
 .my-phot { border-radius: 30px; width:20em;height: 25em; border: 2px solid greenyellow;}
-.header-1{}
 .header-2{color: rgb(184, 10, 146); font-size: 18px;}
-main {text-align: center; border: 1px solid darkgray;}
+main {text-align: center; border: 1px solid darkgray; }
 .section  ol {
     list-style: none;
   }
-  .section { }
  .quote { color: brown;}
   .separator {width: 50%; height: 3px; background-color: aqua;}
-  .video { width: 50rem; height: 30rem ; border-radius: 10px;border: none;text-align: center;}
+  .video { width: 50rem; min-height: 15rem ; border-radius: 10px;border: none;text-align: center;
+  width: 100%;
+ }
+
   .hobbies ol {list-style: none;}
   .table { border-collapse: separate; width: 100%;} 
  .table th,
  .table td { border: 1px solid  rgb(164, 218, 16);  ; border-radius: 5px;  color: rgb(218, 36, 148);
  }
- 
- .interaction { border: solid;}
- 
+.education { margin: 0 auto;}
+ .interaction { border: solid;  }
  .form {width: 600px;margin: 0 auto;}
  .form input{ width: 100%;}
  .button {display: block; margin: 0 auto;  }
@@ -27,3 +29,5 @@ main {text-align: center; border: 1px solid darkgray;}
  .nomer {text-decoration: none; color: antiquewhite; background-color: black; }
  .quote {color: blueviolet;font-size: 50px; }
  h5 { font-size: 25px;color: rgb(218, 193, 201);}
+
+  
