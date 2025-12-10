@@ -11,8 +11,8 @@ main {text-align: center; border: 1px solid darkgray; }
   }
  .quote { color: brown;}
   .separator {width: 50%; height: 3px; background-color: aqua;}
-  .video { width: 50rem; min-height: 15rem ; border-radius: 10px;border: none;text-align: center;
-  width: 100%;
+  .video { width: 800px; height: 460px; border-radius: 10px;border: none;
+ 
  }
 
   .hobbies ol {list-style: none;}
